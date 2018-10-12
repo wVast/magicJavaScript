@@ -1,0 +1,24 @@
+{
+  "name": "magicjavascript",
+  "version": "1.0.0",
+  "description": "wVast",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wVast/magicJavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wVast/magicJavaScript/issues"
+  },
+  "homepage": "https://github.com/wVast/magicJavaScript#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.6.1"
+  }
+}
