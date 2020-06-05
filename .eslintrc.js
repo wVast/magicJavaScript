@@ -21,7 +21,6 @@ module.exports = {
     "semi": [2, "always"],
     "no-mixed-requires": [2, false],
     "no-mixed-spaces-and-tabs": [2, false],
-    "no-mixed-spaces-and-tabs": [2, false],
     "no-unused-vars": [2, {"vars": "all", "args": "after-used"}],
 
     // waring
